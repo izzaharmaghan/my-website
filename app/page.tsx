@@ -25,7 +25,7 @@ const cardContent: ContentSection[] = [
         heading: "ABOUT US",
         emoji: "👥",
         description:
-            "At Straysoulsaviour, we are committed to bringing change in the lives of stray dogs. Our website serves as a vital link that unites compassionate individuals who want to adopt stray dogs to those already dedicated to this noble cause, by bringing these two groups together, we can ensure that every dog secures a safe place..",
+            "At Straysoulsaviour, we are committed to bringing change in the lives of stray dogs. Our website serves as a vital link that unites compassionate individuals who want to adopt stray dogs to those already dedicated to this noble cause, by bringing these two groups together, we can ensure that every dog secures a safe place.",
     },
     {
         imageSrc:
@@ -34,7 +34,7 @@ const cardContent: ContentSection[] = [
         heading: "OUR GOALS",
         emoji: "🚀",
         description:
-            "The sun was setting, casting a warm orange glow over the horizon. Birds flew in formation, returning to their nests for the night. The air was cool, with a gentle breeze rustling through the trees. People strolled along the path, enjoying the peaceful evening. It was a perfect moment to pause and appreciate the beauty of nature.",
+            "Our goal is to promote adoption so that we can successfully decrease the stray dog population in Pakistan and ensure that every dog secures a safe home. Furthermore, we also want to empower shelters with donations and resources so they can continue rescuing dogs and provide them with necessities. Additionally, we aim to raise awareness about humane treatment, rabies prevention, and responsible pet ownership.",
     },
 ]
 
